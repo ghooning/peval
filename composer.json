@@ -1,0 +1,19 @@
+{
+    "name": "ghooning/peval",
+    "description": "PHP Expression evaluator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geert Hooning",
+            "email": "g.hooning@thebeanmachine.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    "autoload": {
+        "psr-0": {
+            "Tbm": "src/"
+        }
+    }
+}

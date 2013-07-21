@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" name="Default" comment="" />
+    <ignored path="peval.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Evaluator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371039419778" ignored="false" />
+    <file path="/Function.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370465878986" ignored="false" />
+    <file path="/IFunction.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371028459000" ignored="false" />
+    <file path="/Double.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371023879980" ignored="false" />
+    <file path="/EvaluationConstants.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370475832881" ignored="false" />
+    <file path="/EvaluationConstants.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370513071051" ignored="false" />
+    <file path="/String.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371038979732" ignored="false" />
+    <file path="/EvaluationHelper.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370476889836" ignored="false" />
+    <file path="/EvaluationHelper.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370478477346" ignored="false" />
+    <file path="/ArgumentTokenizer.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370478768602" ignored="false" />
+    <file path="/ArgumentTokenizer.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371037110908" ignored="false" />
+    <file path="/Enumeration.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370479315172" ignored="false" />
+    <file path="/ArrayList.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370509370918" ignored="false" />
+    <file path="/FunctionConstants.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370482459134" ignored="false" />
+    <file path="/FunctionConstants.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370482524983" ignored="false" />
+    <file path="/FunctionException.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370482572031" ignored="false" />
+    <file path="/FunctionException.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371026130001" ignored="false" />
+    <file path="/AbstractOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370483212623" ignored="false" />
+    <file path="/AbstractOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370489145323" ignored="false" />
+    <file path="/Operator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370483314398" ignored="false" />
+    <file path="/Operator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370483863225" ignored="false" />
+    <file path="/a.dummy" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149533277" ignored="false" />
+    <file path="/OpenParenthesesOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370487952099" ignored="false" />
+    <file path="/OpenParenthesesOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370489540411" ignored="false" />
+    <file path="/IOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370489152376" ignored="false" />
+    <file path="/ClosedParenthesesOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370489191558" ignored="false" />
+    <file path="/ClosedParenthesesOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370489569417" ignored="false" />
+    <file path="/AdditionOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370489988210" ignored="false" />
+    <file path="/AdditionOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491926206" ignored="false" />
+    <file path="/BooleanAndOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491136439" ignored="false" />
+    <file path="/BooleanNotOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491188437" ignored="false" />
+    <file path="/BooleanOrOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491196075" ignored="false" />
+    <file path="/DivisionOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491204365" ignored="false" />
+    <file path="/EqualOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491227867" ignored="false" />
+    <file path="/GreaterThanOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491238546" ignored="false" />
+    <file path="/GreaterThanOrEqualOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491261874" ignored="false" />
+    <file path="/LessThanOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491278298" ignored="false" />
+    <file path="/LessThanOrEqualOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491293288" ignored="false" />
+    <file path="/ModulusOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491303071" ignored="false" />
+    <file path="/MultiplicationOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491313592" ignored="false" />
+    <file path="/NotEqualOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491325081" ignored="false" />
+    <file path="/SubtractionOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491335232" ignored="false" />
+    <file path="/BooleanAndOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370491962460" ignored="false" />
+    <file path="/BooleanNotOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370492221580" ignored="false" />
+    <file path="/BooleanOrOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370492204129" ignored="false" />
+    <file path="/DivisionOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370990116139" ignored="false" />
+    <file path="/EqualOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370493029046" ignored="false" />
+    <file path="/GreaterThanOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370493398566" ignored="false" />
+    <file path="/GreaterThanOrEqualOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370501167987" ignored="false" />
+    <file path="/LessThanOrEqualOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370493944795" ignored="false" />
+    <file path="/ModulusOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494093531" ignored="false" />
+    <file path="/MultiplicationOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370957142442" ignored="false" />
+    <file path="/NotEqualOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494509883" ignored="false" />
+    <file path="/SubtractionOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370986569461" ignored="false" />
+    <file path="/EvaluationException.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494862261" ignored="false" />
+    <file path="/EvaluationResult.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494874716" ignored="false" />
+    <file path="/ExpressionOperand.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494889541" ignored="false" />
+    <file path="/ExpressionOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494908340" ignored="false" />
+    <file path="/ExpressionTree.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494947746" ignored="false" />
+    <file path="/NextOperator.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494971185" ignored="false" />
+    <file path="/ParsedFunction.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370494985921" ignored="false" />
+    <file path="/VariableResolver.java" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370495004008" ignored="false" />
+    <file path="/IVariableResolver.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370495092405" ignored="false" />
+    <file path="/EvaluationException.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370495393112" ignored="false" />
+    <file path="/ExpressionOperand.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370510756854" ignored="false" />
+    <file path="/ExpressionOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370516770293" ignored="false" />
+    <file path="/IParsedFunction.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370496562011" ignored="false" />
+    <file path="/NextOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370496860709" ignored="false" />
+    <file path="/ExpressionTree.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370990755200" ignored="false" />
+    <file path="/LessThanOperator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370501088458" ignored="false" />
+    <file path="/Stack.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370521506458" ignored="false" />
+    <file path="/EvaluationResult.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370508325741" ignored="false" />
+    <file path="/fragment.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371069765946" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Legacy/SurveyProxy.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370976052419" ignored="false" />
+    <file path="/SurveyProxy.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370976050540" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/survey-projects/nbca/data.xml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370593197459" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/log/dump.xml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370599535228" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Util/XpathEvaluator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370939236142" ignored="false" />
+    <file path="/XpathEvaluator.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370619478060" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/Test.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370642278031" ignored="false" />
+    <file path="/Test.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370988620964" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/VariableGetter.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370847996180" ignored="false" />
+    <file path="/VariableGetter.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370847985197" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/log/data.xml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370657851709" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/survey/config/ghooning.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370861548380" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/setup" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371121421126" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/DatasetServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371144520130" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Service/TaskServiceImpl.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370939270702" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Orm/om/BaseDataPeer.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370939520628" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Orm/om/BaseData.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370939520628" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Orm/om/BaseDataQuery.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370939520628" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Orm/om/BaseAnnotationQuery.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370939520628" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/TestClosure.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370966614580" ignored="false" />
+    <file path="/TestClosure.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370966613046" ignored="false" />
+    <file path="/phpunit.xml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370988407820" ignored="false" />
+    <file path="/Dummy.txt" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1374415856776" ignored="false" />
+    <file path="/bootstrap.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371134299605" ignored="false" />
+    <file path="/MathTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370994431687" ignored="false" />
+    <file path="/BooleanExpressionTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1370994208503" ignored="false" />
+    <file path="/composer.json" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1374420975623" ignored="false" />
+    <file path="/FunctionGroup.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371021446208" ignored="false" />
+    <file path="/FunctionHelper.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371036643494" ignored="false" />
+    <file path="/Integer.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371023772082" ignored="false" />
+    <file path="/FunctionResult.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371026559569" ignored="false" />
+    <file path="/CharAt.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371037148387" ignored="false" />
+    <file path="/FunctionExpressionTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371038721057" ignored="false" />
+    <file path="/StringFunctions.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371031771276" ignored="false" />
+    <file path="/Map.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371035537174" ignored="false" />
+    <file path="/ParsedFunction.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371036485267" ignored="false" />
+    <file path="/StringOperationsTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371039297719" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/bootstrap.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149202040" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/features/bootstrap/LoginContext.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371118729271" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/features/bootstrap/FeatureContext.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371042544623" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/config/db.phpunit.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371118829867" ignored="false" />
+    <file path="/FeatureContext.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371065007101" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/behat.yml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371114464496" ignored="false" />
+    <file path="/behat.yml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371114464496" ignored="false" />
+    <file path="/LoginContext.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371118722063" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/features/bootstrap/FeatureContextSuite.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371118415091" ignored="false" />
+    <file path="/FeatureContextSuite.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371108734705" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Orm/om/BaseActorQuery.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371049581449" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/web/dispatch.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371050464925" ignored="false" />
+    <file path="/DatasetServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371070334475" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/build/logs/clover.xml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371136484099" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/build/logs/junit.xml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371136484099" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/database/sqlite/schema.sql" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371117088077" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Orm/om/BaseActor.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371121638516" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/database/schema.xml" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371115042426" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Orm/om/BaseActorRole.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371121638516" ignored="false" />
+    <file path="/schema.sql" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371117020175" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/src/Mrdm/Orm/om/BaseOrganisation.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371121638516" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/fixture/DatabaseFixture.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371136835185" ignored="false" />
+    <file path="/DatabaseFixture.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371136183218" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/AuthenticationServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371137512255" ignored="false" />
+    <file path="/AuthenticationServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149738429" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/TaskServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371144332779" ignored="false" />
+    <file path="/TaskServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149005586" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/util/SqliteUtils.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371137123094" ignored="false" />
+    <file path="/SqliteUtils.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371137054327" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/fixture/SqliteUtils.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371136881844" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/service/AuthenticationServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371148737204" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/service/TaskServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371144484286" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/BaseDatabaseTestCase.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371148469375" ignored="false" />
+    <file path="/BaseDatabaseTestCase.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149453848" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/base/BaseDatabaseTestCase.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371148722900" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/Mrdm/base/BaseDatabaseTestCase.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149642972" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/Mrdm/fixture/CoreModelFixture.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371148921839" ignored="false" />
+    <file path="/CoreModelFixture.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371148908060" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/Mrdm/fixture/DatabaseFixture.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371148932144" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/Mrdm/service/AuthenticationServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149741877" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/Mrdm/service/TaskServiceTest.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149005586" ignored="false" />
+    <file path="$PROJECT_DIR$/../mrdm-backend/tests/unit/Mrdm/util/SqliteUtils.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1371149123206" ignored="false" />
+    <file path="$PROJECT_DIR$/../reg-backend/composer.json" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1374421080138" ignored="false" />
+    <file path="$PROJECT_DIR$/../reg-backend/web/dispatch.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1374418271793" ignored="false" />
+    <file path="$PROJECT_DIR$/../reg-backend/vendor/composer/ClassLoader.php" changelist="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" time="1374421061074" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/peval$StringOperationsTest.coverage" NAME="StringOperationsTest Coverage Results" MODIFIED="1371039631544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/peval$FunctionExpressionTest.coverage" NAME="FunctionExpressionTest Coverage Results" MODIFIED="1371038737043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/peval$unit.coverage" NAME="unit Coverage Results" MODIFIED="1370994368786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/peval$BooleanExpressionTest.coverage" NAME="BooleanExpressionTest Coverage Results" MODIFIED="1374224562928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/peval$MathTest.coverage" NAME="MathTest Coverage Results" MODIFIED="1370991910522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="peval" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Evaluator.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tbm/Peval/Evaluator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="738" column="0" selection-start="24294" selection-end="24294" vertical-scroll-proportion="-5.4166665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionExpressionTest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/unit/FunctionExpressionTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="-9.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Abs.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tbm/Peval/Func/Math/Abs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BooleanOperationsSample.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/net/sourceforge/jeval/samples/BooleanOperationsSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="13.740741">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="9" selection-start="355" selection-end="355" vertical-scroll-proportion="0.4477612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MathTest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/unit/MathTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="79" column="30" selection-start="4644" selection-end="4644" vertical-scroll-proportion="-7.4166665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BooleanExpressionTest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/unit/BooleanExpressionTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="27" selection-start="5081" selection-end="5081" vertical-scroll-proportion="-0.125">
+              <folding>
+                <element signature="e#115#129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCase.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///usr/local/pear/share/pear/PHPUnit/Framework/TestCase.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="979" column="0" selection-start="27071" selection-end="27071" vertical-scroll-proportion="-5.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EvaluationException.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tbm/Peval/EvaluationException.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JEvalTests.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/net/sourceforge/jeval/JEvalTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="222" column="7" selection-start="8970" selection-end="9030" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Func/FunctionResult.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Func/IFunctionGroup.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Func/String/StringFunctions.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Func/IFunction.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/EvaluationConstants.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Collection/Map.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/ParsedFunction.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Func/FunctionHelper.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/ArgumentTokenizer.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Func/String/CharAt.php" />
+        <option value="$PROJECT_DIR$/test/unit/FunctionExpressionTest.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Types/String.php" />
+        <option value="$PROJECT_DIR$/src/Tbm/Peval/Evaluator.php" />
+        <option value="$PROJECT_DIR$/test/unit/StringOperationsTest.php" />
+        <option value="$PROJECT_DIR$/test/unit/BooleanExpressionTest.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php5.3" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="731" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="peval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="peval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="peval" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="237db9d3-7a14-4b3b-93e9-a1ce07c8d889">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/unit" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/src/Tbm/Peval/Collection" />
+      <recent name="$PROJECT_DIR$/src/TBM" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.BooleanExpressionTest">
+    <configuration default="false" name="MathTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tbm\MathTest" file="$PROJECT_DIR$/test/unit/MathTest.php" scope="Class" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BooleanExpressionTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tbm\BooleanExpressionTest" file="$PROJECT_DIR$/test/unit/BooleanExpressionTest.php" scope="Class" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="unit" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/test/unit" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FunctionExpressionTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tbm\FunctionExpressionTest" file="$PROJECT_DIR$/test/unit/FunctionExpressionTest.php" scope="Class" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StringOperationsTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tbm\StringOperationsTest" file="$PROJECT_DIR$/test/unit/StringOperationsTest.php" scope="Class" />
+      <RunnerSettings RunnerId="PhpUnitCoverageRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitCoverageRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.MathTest" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.BooleanExpressionTest" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.unit" />
+      <item index="3" class="java.lang.String" itemvalue="PHPUnit.FunctionExpressionTest" />
+      <item index="4" class="java.lang.String" itemvalue="PHPUnit.StringOperationsTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.BooleanExpressionTest" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.StringOperationsTest" />
+        <item index="2" class="java.lang.String" itemvalue="PHPUnit.FunctionExpressionTest" />
+        <item index="3" class="java.lang.String" itemvalue="PHPUnit.unit" />
+        <item index="4" class="java.lang.String" itemvalue="PHPUnit.MathTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/phpstorm" Dictionaries="0" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value="ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aebccd7-a4cb-4195-ad8d-ad6faf9351b6" name="Default" comment="" />
+      <created>1370465085041</created>
+      <updated>1370465085041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="731" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11345219" sideWeight="0.65630114" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2858017" sideWeight="0.567217" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2471637" sideWeight="0.6710311" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23731588" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289689" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34369886" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/test/unit/BooleanExpressionTest.php</url>
+          <line>81</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="116" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/pear/share/pear/PHPUnit/Framework/TestResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="723" column="0" selection-start="18533" selection-end="18533" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/pear/share/pear/PHPUnit/Framework/Assert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="470" column="0" selection-start="15860" selection-end="15860" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tbm/Peval/ExpressionTree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="44" selection-start="4338" selection-end="4338" vertical-scroll-proportion="-5.3333335" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tbm/Peval/Types/String.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/StringOperationsTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="19" selection-start="1658" selection-end="1658" vertical-scroll-proportion="-24.25">
+          <folding>
+            <element signature="e#6#97#0" expanded="true" />
+            <element signature="e#115#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/net/sourceforge/jeval/JEvalTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="222" column="7" selection-start="8970" selection-end="9030" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/MathTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="30" selection-start="4644" selection-end="4644" vertical-scroll-proportion="-7.4166665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tbm/Peval/Evaluator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="738" column="0" selection-start="24294" selection-end="24294" vertical-scroll-proportion="-5.4166665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/pear/share/pear/PHPUnit/Framework/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="979" column="0" selection-start="27071" selection-end="27071" vertical-scroll-proportion="-5.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tbm/Peval/EvaluationException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/BooleanExpressionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="27" selection-start="5081" selection-end="5081" vertical-scroll-proportion="-0.125">
+          <folding>
+            <element signature="e#115#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/unit/FunctionExpressionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tbm/Peval/Func/Math/Abs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/net/sourceforge/jeval/samples/MockVariableResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="30" selection-start="926" selection-end="926" vertical-scroll-proportion="0.5568628">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/net/sourceforge/jeval/samples/BooleanOperationsSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="13.740741">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="355" selection-end="355" vertical-scroll-proportion="0.4477612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
